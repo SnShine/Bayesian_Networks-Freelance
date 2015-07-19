@@ -1,0 +1,11 @@
+10
+[{'stroke':'yes'}, {'income':51000, 'smoke':'no', 'exercise':'no'}]
+[{'bp':'yes'}, {'attack':'yes', 'bmi':'obese', 'stroke':'no'}]
+[{'angina':'no', 'diabetes':'yes'}, {'income':29000, 'bmi':'overweight', 'smoke':'yes'}]
+[{'smoke':'yes'}, {'angina':'no', 'attack':'yes', 'stroke':'yes'}]
+[{'exercise':'yes', 'bp':'no', 'cholesterol':'yes'}, {'income':31000, 'angina':'yes', 'diabetes':'no'}]
+[{'diabetes':'no', 'stroke':'yes'}, {'income':100000, 'angina':'no', 'cholesterol':'yes'}]
+[{'exercise':'yes', 'smoke':'yes'}, {'income':25000, 'stroke':'yes' , 'diabetes':'yes', 'bmi':'normal' , 'angina':'yes' , 'cholesterol':'yes'}]
+[{'smoke':'yes', 'exercise':'no'}, {'income':19000, 'diabetes':'yes', 'attack':'no', 'bp':'no'}]
+[{'stroke':'yes', 'attack':'yes', 'angina':'no'}, {'smoke':'yes'}]
+[{'angina':'yes', 'diabetes':'no', 'attack':'yes', 'stroke':'no'}, {'income':76000, 'exercise':'no', 'smoke':'yes'}]

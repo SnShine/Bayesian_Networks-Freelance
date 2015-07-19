@@ -1,0 +1,40 @@
+Patient-1:
+{'parkinson': '0.0239', 'celiac': '0.1019', 'ALS': '0.3596', 'alzheimer': '0.4263', 'leukemia': '0.4903'}
+{'parkinson': ['0.0034', '0.114'], 'celiac': ['0.0352', '0.2138'], 'ALS': ['0.144', '0.6843'], 'alzheimer': ['0.0295', '1.501'], 'leukemia': ['0.0838', '1.4231']}
+{'parkinson': ['tremor', 'F', 'tremor', 'T'], 'celiac': ['abdominal pain', 'T', 'abdominal pain', 'F'], 'ALS': ['stiffness of muscles', 'T', 'stiffness of muscles', 'F'], 'alzheimer': ['memeory loss', 'T', 'memeory loss', 'F'], 'leukemia': ['lymph nodes', 'T', 'lymph nodes', 'F']}
+Patient-2:
+{'parkinson': '0.2568', 'celiac': '0.727', 'ALS': '0.0339', 'alzheimer': '0.0748', 'leukemia': '0.6257'}
+{'parkinson': ['0.0376', '1.2293'], 'celiac': ['0.2551', '1.7159'], 'ALS': ['0.0079', '0.144'], 'alzheimer': ['0.005', '0.2636'], 'leukemia': ['0.1074', '1.8176']}
+{'parkinson': ['tremor', 'F', 'tremor', 'T'], 'celiac': ['chronic diarrhea', 'T', 'abdominal pain', 'F'], 'ALS': ['slurred speech', 'T', 'slurred speech', 'F'], 'alzheimer': ['memeory loss', 'T', 'memeory loss', 'F'], 'leukemia': ['lymph nodes', 'T', 'lymph nodes', 'F']}
+Patient-3:
+{'parkinson': '1.1841', 'celiac': '0.2059', 'ALS': '0.0823', 'alzheimer': '0.0295', 'leukemia': '0.146'}
+{'parkinson': ['0.4914', '2.7387'], 'celiac': ['0.0722', '0.4942'], 'ALS': ['0.0194', '0.3487'], 'alzheimer': ['0.0178', '0.0636'], 'leukemia': ['0.0254', '0.4239']}
+{'parkinson': ['stiff limbs', 'F', 'normal expression', 'F'], 'celiac': ['normal stool', 'F', 'abdominal pain', 'F'], 'ALS': ['slurred speech', 'T', 'slurred speech', 'F'], 'alzheimer': ['normal social interaction', 'F', 'normal social interaction', 'T'], 'leukemia': ['lymph nodes', 'T', 'lymph nodes', 'F']}
+Patient-4:
+{'parkinson': '0.0092', 'celiac': '0.2719', 'ALS': '0.2156', 'alzheimer': '0.1238', 'leukemia': '1.0795'}
+{'parkinson': ['0.0014', '0.0437'], 'celiac': ['0.0953', '0.6536'], 'ALS': ['0.0505', '0.9158'], 'alzheimer': ['0.0084', '0.4368'], 'leukemia': ['0.6085', '2.9437']}
+{'parkinson': ['tremor', 'F', 'tremor', 'T'], 'celiac': ['normal stool', 'F', 'abdominal pain', 'F'], 'ALS': ['slurred speech', 'T', 'slurred speech', 'F'], 'alzheimer': ['memeory loss', 'T', 'memeory loss', 'F'], 'leukemia': ['swelling in abdomen', 'T', 'swelling in abdomen', 'F']}
+Patient-5:
+{'parkinson': '0.2474', 'celiac': '0.3033', 'ALS': '0.0559', 'alzheimer': '0.3885', 'leukemia': '0.3964'}
+{'parkinson': ['0.0363', '1.1841'], 'celiac': ['0.1063', '0.727'], 'ALS': ['0.0132', '0.2371'], 'alzheimer': ['0.0269', '1.3717'], 'leukemia': ['0.0706', '1.1538']}
+{'parkinson': ['tremor', 'F', 'tremor', 'T'], 'celiac': ['normal stool', 'F', 'abdominal pain', 'F'], 'ALS': ['slurred speech', 'T', 'slurred speech', 'F'], 'alzheimer': ['memeory loss', 'T', 'memeory loss', 'F'], 'leukemia': ['lymph nodes', 'T', 'lymph nodes', 'F']}
+Patient-6:
+{'parkinson': '0.0502', 'celiac': '0.5393', 'ALS': '0.3928', 'alzheimer': '0.1238', 'leukemia': '0.3168'}
+{'parkinson': ['0.0074', '0.24'], 'celiac': ['0.1892', '1.2945'], 'ALS': ['0.0919', '1.6705'], 'alzheimer': ['0.0084', '0.4368'], 'leukemia': ['0.0548', '0.9182']}
+{'parkinson': ['tremor', 'F', 'tremor', 'T'], 'celiac': ['normal stool', 'F', 'abdominal pain', 'F'], 'ALS': ['slurred speech', 'T', 'slurred speech', 'F'], 'alzheimer': ['memeory loss', 'T', 'memeory loss', 'F'], 'leukemia': ['lymph nodes', 'T', 'lymph nodes', 'F']}
+Patient-7:
+{'parkinson': '0.0191', 'celiac': '0.0323', 'ALS': '0.3487', 'alzheimer': '0.4368', 'leukemia': '0.113'}
+{'parkinson': ['0.0074', '0.0443'], 'celiac': ['0.0123', '0.0769'], 'ALS': ['0.2827', '0.5238'], 'alzheimer': ['0.2636', '0.9428'], 'leukemia': ['0.02', '0.3314']}
+{'parkinson': ['normal walk', 'T', 'normal expression', 'F'], 'celiac': ['normal stool', 'F', 'normal stool', 'T'], 'ALS': ['twitching', 'T', 'twitching', 'F'], 'alzheimer': ['normal social interaction', 'F', 'normal social interaction', 'T'], 'leukemia': ['lymph nodes', 'T', 'lymph nodes', 'F']}
+Patient-8:
+{'parkinson': '0.3005', 'celiac': '0.192', 'ALS': '0.2062', 'alzheimer': '0.1238', 'leukemia': '0.4864'}
+{'parkinson': ['0.0443', '1.4372'], 'celiac': ['0.0726', '0.4599'], 'ALS': ['0.0483', '0.8756'], 'alzheimer': ['0.0084', '0.4368'], 'leukemia': ['0.0829', '1.4127']}
+{'parkinson': ['tremor', 'F', 'tremor', 'T'], 'celiac': ['normal stool', 'F', 'normal stool', 'T'], 'ALS': ['slurred speech', 'T', 'slurred speech', 'F'], 'alzheimer': ['memeory loss', 'T', 'memeory loss', 'F'], 'leukemia': ['lymph nodes', 'T', 'lymph nodes', 'F']}
+Patient-9:
+{'parkinson': '0.008', 'celiac': '0.477', 'ALS': '0.1615', 'alzheimer': '0.1238', 'leukemia': '0.0657'}
+{'parkinson': ['0.003', '0.0184'], 'celiac': ['0.1792', '1.1454'], 'ALS': ['0.0381', '0.6843'], 'alzheimer': ['0.0084', '0.4368'], 'leukemia': ['0.0114', '0.1905']}
+{'parkinson': ['normal walk', 'T', 'normal expression', 'F'], 'celiac': ['normal stool', 'F', 'normal stool', 'T'], 'ALS': ['slurred speech', 'T', 'slurred speech', 'F'], 'alzheimer': ['memeory loss', 'T', 'memeory loss', 'F'], 'leukemia': ['lymph nodes', 'T', 'lymph nodes', 'F']}
+Patient-10:
+{'parkinson': '0.258', 'celiac': '0.3033', 'ALS': '0.0848', 'alzheimer': '0.18', 'leukemia': '0.1744'}
+{'parkinson': ['0.0993', '0.5977'], 'celiac': ['0.1063', '0.727'], 'ALS': ['0.02', '0.3596'], 'alzheimer': ['0.0123', '0.6347'], 'leukemia': ['0.03', '0.5062']}
+{'parkinson': ['normal walk', 'T', 'normal expression', 'F'], 'celiac': ['normal stool', 'F', 'abdominal pain', 'F'], 'ALS': ['slurred speech', 'T', 'slurred speech', 'F'], 'alzheimer': ['memeory loss', 'T', 'memeory loss', 'F'], 'leukemia': ['lymph nodes', 'T', 'lymph nodes', 'F']}
